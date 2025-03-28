@@ -1,0 +1,53 @@
+{
+  "title": "FAQ",
+  "subtitle": "Because You Asked (or Should Have)",
+  "faqQuestions": [
+    {
+      "title": "Tech Wizardry",
+      "questions": [
+        {
+          "label": "What magic do you wield (aka services)?",
+          "content": "I cast spells in TypeScript, Rust, and Vue to conjure full-stack web experiences. Need a website or app? I've got the potions... err, solutions!"
+        },
+        {
+          "label": "Can you teach me how to code in my sleep?",
+          "content": "Not yet, but I can recommend some Lofi tunes to help you focus while learning. Seriously though, I might share resources or tips, but no coding bootcamp... for now"
+        }
+      ]
+    },
+    {
+      "title": "Treasure Chest (Pricing)",
+      "questions": [
+        {
+          "label": "How much does a project cost?",
+          "content": "Every quest is unique! To get a customized treasure map (aka quote), please **contact me** with your project details. I'll conjure up a personalized estimate tailored to your needs."
+        },
+        {
+          "label": "What factors influence the project cost?",
+          "content": "Project size, complexity, technology stack, timeline, and more. **Let's discuss your project**, and I'll break down the estimated costs for you."
+        },
+        {
+          "label": "Do you offer any discounts?",
+          "content": "Possibly! **Reach out to me** to discuss your project, and we can explore potential discounts for students, non-profits, or other special cases."
+        }
+      ]
+    },
+    {
+      "title": "The Wizard's Lair (Personal)",
+      "questions": [
+        {
+          "label": "What fuels your coding frenzy?",
+          "content": "Lofi beats, fantasy novels, and the thrill of solving puzzles. Also, coffee. Lots of coffee."
+        },
+        {
+          "label": "Hobbies beyond coding (if that's possible)?",
+          "content": "Reading fantasy epics, attempting to draw fantasy creatures (emphasis on 'attempting'), and dominating in online gaming (in my dreams)"
+        },
+        {
+          "label": "How did you become a coding wizard at such a young age?",
+          "content": "Started coding at 15, and the rest is history... or a really long, nerdy story. Ask me in person, and I'll tell you over a cup of coffee (or Lofi-filled silence)"
+        }
+      ]
+    }
+  ]
+}

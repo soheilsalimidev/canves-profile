@@ -1,0 +1,85 @@
+{
+  "items": [
+    {
+      "name": "Rust",
+      "link": "https://www.rust-lang.org/",
+      "icon": "custom:rust"
+    },
+    {
+      "name": "TypeScript (TS)",
+      "link": "https://www.typescriptlang.org/",
+      "icon": "custom:typescript"
+    },
+    {
+      "name": "Vue",
+      "link": "https://vuejs.org/",
+      "icon": "custom:vue"
+    },
+    {
+      "name": "Nuxt",
+      "link": "https://nuxt.com/",
+      "icon": "custom:nuxt"
+    },
+    {
+      "name": "Docker",
+      "link": "https://www.docker.com/",
+      "icon": "custom:docker"
+    },
+        {
+      "name": "GitHub",
+      "link": "https://github.com",
+      "icon": "custom:github"
+    },
+
+    {
+      "name": "Node.js",
+      "link": "https://nodejs.org/en/",
+      "icon": "custom:nodejs"
+    },
+    {
+      "name": "Fastify",
+      "link": "https://www.fastify.io/",
+      "icon": "custom:fastify"
+    },
+    {
+      "name": "Tokio (Rust Async)",
+      "link": "https://tokio.rs/",
+      "icon": "custom:tokio"
+    },
+    {
+      "name": "Axum (Rust Web Framework)",
+      "link": "https://crates.io/crates/axum",
+      "icon": "custom:tokio"
+    },
+    {
+      "name": "pnpm (Package Manager)",
+      "link": "https://pnpm.io/",
+      "icon": "custom:pnpm"
+    },
+    {
+      "name": "Tailwind CSS",
+      "link": "https://tailwindcss.com/",
+      "icon": "custom:tailwind"
+    },
+    {
+      "name": "Prisma",
+      "link": "https://www.prisma.io/",
+      "icon": "custom:prisma"
+    },
+    {
+      "name": "PostgreSQL",
+      "link": "https://www.postgresql.org/",
+      "icon": "custom:postgresql"
+    },
+    {
+      "name": "GitHub Actions",
+      "link": "https://github.com/features/actions",
+      "icon": "custom:github-ac"
+    },
+    {
+      "name": "Neovim (nvim)",
+      "link": "https://neovim.io/",
+      "icon": "custom:neovim"
+    }
+  ]
+}
