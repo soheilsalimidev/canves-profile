@@ -2,10 +2,7 @@
 import type { ContentEnCollectionItem, ContentFrCollectionItem } from '@nuxt/content'
 
 useScriptPlausibleAnalytics({
-  domain: 'canvas.hrcd.fr',
-  scriptInput: {
-    src: 'https://analytics.hrcd.fr/js/script.js',
-  },
+  domain: 'https://soheilsalimidev.ir/',
 })
 
 const { page, isWriting } = defineProps<{
@@ -53,7 +50,7 @@ useHead({
   link,
 })
 
-defineOgImage({ url: 'https://canvas.hrcd.fr/og.png', width: 1200, height: 630, alt: 'Home image' })
+defineOgImage({ url: 'https://soheilsalimidev.ir/og.png', width: 1200, height: 630, alt: 'Home image' })
 </script>
 
 <template>
