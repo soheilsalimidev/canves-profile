@@ -71,6 +71,9 @@ export default defineNuxtConfig({
     prerender: {
       autoSubfolderIndex: false,
       crawlLinks: true,
+      routes: [
+        '/',
+      ],
     },
   },
   i18n: {
