@@ -16,7 +16,7 @@ export default defineAppConfig({
     telegram: 'https://t.me/soheilsalimidev',
   },
   seo: {
-    title: 'Soehil salimi portfolio ',
+    title: 'Soheil salimi portfolio ',
     description: ' Hi there, this my portfolio , soheil salimi full stack developer',
     url: 'https://soheilsalimidev.ir',
   },
