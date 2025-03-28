@@ -25,7 +25,7 @@ export default defineNuxtConfig({
   css: ['~/assets/style/main.css'],
 
   site: {
-    url: 'https://soheilsalimidev.ir',
+    url: 'https://soheilsalimidev.ir/',
     defaultLocale: 'en',
     indexable: true,
   },
@@ -71,7 +71,6 @@ export default defineNuxtConfig({
     prerender: {
       autoSubfolderIndex: false,
       crawlLinks: true,
-      routes: ['/en', '/fa'],
     },
   },
   i18n: {
@@ -84,7 +83,7 @@ export default defineNuxtConfig({
       cookieKey: 'i18n_redirected',
       redirectOn: 'root',
     },
-    strategy: 'prefix',
+    strategy: 'prefix_except_default',
     defaultLocale: 'en',
     vueI18n: '~/i18n.config.ts',
     bundle: {

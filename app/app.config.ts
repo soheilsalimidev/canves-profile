@@ -16,8 +16,8 @@ export default defineAppConfig({
     telegram: 'https://t.me/soheilsalimidev',
   },
   seo: {
-    title: 'Canvas a Nuxt portfolio template',
-    description: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
+    title: 'Soehil salimi portfolio ',
+    description: ' Hi there, this my portfolio , soheil salimi full stack developer',
     url: 'https://soheilsalimidev.ir',
   },
   ui: {
