@@ -65,6 +65,7 @@ export default defineNuxtConfig({
   compatibilityDate: '2025-01-05',
 
   nitro: {
+    minify: false,
     experimental: {
       websocket: true,
     },
@@ -74,6 +75,11 @@ export default defineNuxtConfig({
       routes: [
         '/',
       ],
+    },
+  },
+  vite: {
+    build: {
+      minify: false,
     },
   },
   i18n: {
